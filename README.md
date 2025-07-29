@@ -6,6 +6,8 @@
   <a href="https://linkedin.com/in/alan-berns" target="_blank">🔗 LinkedIn</a> 
 </p>
 
+### ⚙️ Metodologías y herramientas de trabajo
+
 ---
 
 ## 🧠 Tecnologías que manejo
@@ -66,9 +68,13 @@
 ### ⚙️ Herramientas y otros
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pug/pug-original.svg" alt="Pug" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>
+  <img src="https://icon-icons.com/downloadimage.php?id=261689&root=4266/SVG/&file=Scrum_backlog_process_project_management_agile_approache_dev_icon_261689.svg" alt="Scrum" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
